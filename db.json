@@ -28,7 +28,7 @@
       "id": "4",
       "name": "Forrest Gump",
       "description": "Forrest Gump es un chico con deficiencias mentales no muy profundas y con alguna incapacidad motora que, a pesar de todo, llegará a convertirse, entre otras cosas, en un héroe durante la Guerra del Vietnam.",
-      "img": "https://lafabuladelasideas.com/wp-content/uploads/2017/02/forrest-gump.jpg",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/f/o/r/forrest-gump-415_SPA-94.jpg",
       "createdAt": "7 de julio de 1994",
       "isLiked": true
     },
@@ -36,7 +36,7 @@
       "id": "5",
       "name": "El Padrino",
       "description": "En 1945, en Nueva York, los Corleone son una de las cinco familias que dominan la mafia. Don Vito Corleone, el Padino, es el más respetado por las demás familias y también el más temido.",
-      "img": "https://www.cinemascomics.com/wp-content/uploads/2019/08/el-padrino-1.jpg",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/e/l/-/xel-padrino-2981_SPA-85.jpg.pagespeed.ic.2xSpJ2k7TL.webp",
       "createdAt": "24 de marzo de 1972",
       "isLiked": true
     },
@@ -44,7 +44,7 @@
       "id": "6",
       "name": "El Señor de los Anillos",
       "description": "Un hobbit llamado Frodo Bolsón es el portador de un anillo que puede conceder el poder absoluto a su poseedor. Acompañado de varios amigos, emprende un viaje para destruirlo y evitar que caiga en manos de la oscuridad.",
-      "img": "https://estaticos-cdn.prensaiberica.es/clip/cd924028-8b24-4fd0-9d08-2e7f8398b2b8_16-9-aspect-ratio_default_0.jpg",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/e/l/-/el-senor-de-los-anillos-64213_SPA-14.jpg",
       "createdAt": "10 de diciembre de 2001",
       "isLiked": false
     },
@@ -52,7 +52,7 @@
       "id": "7",
       "name": "Titanic",
       "description": "Una joven de la alta sociedad abandona a su arrogante pretendiente por un joven humilde en este clásico de James Cameron.",
-      "img": "https://www.filmaffinity.com/imgs/movies/medium/47/120.jpg",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/t/i/t/titanic-160_SPA-21.jpg",
       "createdAt": "18 de noviembre de 1997",
       "isLiked": true
     },
@@ -60,23 +60,23 @@
       "id": "8",
       "name": "Matrix",
       "description": "Un programador de computadoras descubre que el mundo en el que vive es una simulación creada por máquinas inteligentes. Con la ayuda de un grupo de rebeldes, lucha por liberar a la humanidad de su control.",
-      "img": "https://es.web.img2.acsta.net/c_310_420/pictures/210/231/21023160_20131017135020938.jpg",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/m/a/t/xmatrix-1124_SPA-51.jpg.pagespeed.ic.DNtx4w5Uha.webp",
       "createdAt": "31 de marzo de 1999",
       "isLiked": true
     },
     {
       "id": "9",
-      "name": "El club de la pelea",
-      "description": "Un hombre insomne y un carismático vendedor de jabón forman un club de lucha clandestino que se convierte en algo mucho más grande.",
-      "img": "https://pics.filmaffinity.com/el_club_de_la_pelea-328422440-large.jpg",
-      "createdAt": "10 de septiembre de 1999",
+      "name": "La gran pelea",
+      "description": "El camionero Philo Beddoe decide dejar de tomar parte en las peleas a puño descubierto, con las que solía ganar un dinero extra, además del que conseguía con su negocio de reparación de coches. Pero cuando unos mafiosos organizan un gran combate, se ve obligado a volver a la acción.",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/l/a/-/xla-gran-pelea-11025_SPA-29.jpg.pagespeed.ic.VxJ7Q2g8Dg.webp",
+      "createdAt": "10 de septiembre de 1980",
       "isLiked": false
     },
     {
       "id": "10",
       "name": "La lista de Schindler",
       "description": "Durante la Segunda Guerra Mundial, Oskar Schindler, un empresario alemán, salva la vida de más de mil judíos polacos al emplearlos en sus fábricas.",
-      "img": "https://es.web.img3.acsta.net/c_310_420/pictures/18/07/30/14/36/0582435.jpg",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/l/a/-/la-lista-de-schindler-6842_SPA-22.jpg",
       "createdAt": "1 de marzo de 1994",
       "isLiked": true
     },
@@ -84,39 +84,39 @@
       "id": "11",
       "name": "El caballero oscuro",
       "description": "Batman se enfrenta al Joker, un criminal psicótico que siembra el caos en Gotham City.",
-      "img": "https://pics.filmaffinity.com/The_Dark_Knight-356354309-large.jpg",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/e/l/-/el-caballero-oscuro-134613_SPA-45.jpg",
       "createdAt": "24 de julio de 2008",
       "isLiked": true
     },
     {
       "id": "12",
-      "name": "Inception",
-      "description": "Un ladrón habilidoso roba secretos corporativos implantando ideas en el subconsciente de sus objetivos mientras sueñan.",
-      "img": "https://es.web.img2.acsta.net/c_310_420/pictures/10/06/30/16/15/095810.jpg",
-      "createdAt": "8 de julio de 2010",
+      "name": "Eternal",
+      "description": "Un poderoso millonario enfermo de cáncer se somete a un procedimiento médico radical para transferir su conciencia al cuerpo de un hombre más joven. Al principio todo va bien y disfruta de una nueva juventud, hasta que empieza a saber más de la procedencia del cuerpo que ocupa.",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/e/t/e/eternal-453542_SPA-33.jpg",
+      "createdAt": "8 de julio de 2015",
       "isLiked": false
     },
     {
       "id": "13",
       "name": "El Gran Lebowski",
       "description": "Jeffrey Lebowski, más conocido como El Nota, es un hombre tranquilo que disfruta de su amor por los bolos y la marihuana. Su vida se complica cuando es confundido con otro hombre del mismo nombre y se ve envuelto en una serie de eventos extraños.",
-      "img": "https://es.web.img3.acsta.net/c_310_420/pictures/19/03/29/12/22/1080647.jpg",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/e/l/-/el-gran-lebowski-7035_SPA-85.jpg",
       "createdAt": "15 de marzo de 1998",
       "isLiked": true
     },
     {
       "id": "14",
-      "name": "Interestelar",
-      "description": "Un grupo de exploradores se embarca en un viaje a través de un agujero de gusano en el espacio en un intento por garantizar la supervivencia de la humanidad.",
-      "img": "https://es.web.img3.acsta.net/c_310_420/pictures/14/09/23/12/58/453119.jpg",
-      "createdAt": "26 de diciembre de 2014",
+      "name": "Jumanji: Bienvenidos a la Jungla",
+      "description": "Cuatro adolescentes son absorbidos por un videojuego, en el que se convierten en personajes arquetípicos. Vivirán múltiples aventuras, al tiempo que buscan cómo salir del juego para volver a su mundo.",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/j/u/m/xjumanji-bienvenidos-a-la-jungla-544397_SPA-73.jpg.pagespeed.ic.h7kLkXan5Z.webp",
+      "createdAt": "26 de diciembre de 2017",
       "isLiked": true
     },
     {
       "id": "15",
       "name": "El club de los cinco",
       "description": "Cinco estudiantes de secundaria, cada uno con una personalidad diferente, pasan un sábado castigados en la biblioteca de su escuela. A medida que el día avanza, descubren que tienen más en común de lo que pensaban.",
-      "img": "https://pics.filmaffinity.com/The_Breakfast_Club-366526814-large.jpg",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/e/l/-/xel-club-de-los-cinco-poster-7239_SPA-25_V.jpg.pagespeed.ic.uU2qrZRHLz.webp",
       "createdAt": "15 de febrero de 1985",
       "isLiked": true
     }
