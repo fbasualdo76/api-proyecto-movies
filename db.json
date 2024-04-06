@@ -66,14 +66,6 @@
     },
     {
       "id": "9",
-      "name": "La gran pelea",
-      "description": "El camionero Philo Beddoe decide dejar de tomar parte en las peleas a puño descubierto, con las que solía ganar un dinero extra, además del que conseguía con su negocio de reparación de coches. Pero cuando unos mafiosos organizan un gran combate, se ve obligado a volver a la acción.",
-      "img": "https://cdn.sincroguia.tv/uploads/programs/l/a/-/xla-gran-pelea-11025_SPA-29.jpg.pagespeed.ic.VxJ7Q2g8Dg.webp",
-      "createdAt": "10 de septiembre de 1980",
-      "isLiked": false
-    },
-    {
-      "id": "10",
       "name": "La lista de Schindler",
       "description": "Durante la Segunda Guerra Mundial, Oskar Schindler, un empresario alemán, salva la vida de más de mil judíos polacos al emplearlos en sus fábricas.",
       "img": "https://cdn.sincroguia.tv/uploads/programs/l/a/-/la-lista-de-schindler-6842_SPA-22.jpg",
@@ -81,7 +73,7 @@
       "isLiked": true
     },
     {
-      "id": "11",
+      "id": "10",
       "name": "El caballero oscuro",
       "description": "Batman se enfrenta al Joker, un criminal psicótico que siembra el caos en Gotham City.",
       "img": "https://cdn.sincroguia.tv/uploads/programs/e/l/-/el-caballero-oscuro-134613_SPA-45.jpg",
@@ -89,15 +81,7 @@
       "isLiked": true
     },
     {
-      "id": "12",
-      "name": "Eternal",
-      "description": "Un poderoso millonario enfermo de cáncer se somete a un procedimiento médico radical para transferir su conciencia al cuerpo de un hombre más joven. Al principio todo va bien y disfruta de una nueva juventud, hasta que empieza a saber más de la procedencia del cuerpo que ocupa.",
-      "img": "https://cdn.sincroguia.tv/uploads/programs/e/t/e/eternal-453542_SPA-33.jpg",
-      "createdAt": "8 de julio de 2015",
-      "isLiked": false
-    },
-    {
-      "id": "13",
+      "id": "11",
       "name": "El Gran Lebowski",
       "description": "Jeffrey Lebowski, más conocido como El Nota, es un hombre tranquilo que disfruta de su amor por los bolos y la marihuana. Su vida se complica cuando es confundido con otro hombre del mismo nombre y se ve envuelto en una serie de eventos extraños.",
       "img": "https://cdn.sincroguia.tv/uploads/programs/e/l/-/el-gran-lebowski-7035_SPA-85.jpg",
@@ -105,15 +89,7 @@
       "isLiked": true
     },
     {
-      "id": "14",
-      "name": "Jumanji: Bienvenidos a la Jungla",
-      "description": "Cuatro adolescentes son absorbidos por un videojuego, en el que se convierten en personajes arquetípicos. Vivirán múltiples aventuras, al tiempo que buscan cómo salir del juego para volver a su mundo.",
-      "img": "https://cdn.sincroguia.tv/uploads/programs/j/u/m/xjumanji-bienvenidos-a-la-jungla-544397_SPA-73.jpg.pagespeed.ic.h7kLkXan5Z.webp",
-      "createdAt": "26 de diciembre de 2017",
-      "isLiked": true
-    },
-    {
-      "id": "15",
+      "id": "12",
       "name": "El club de los cinco",
       "description": "Cinco estudiantes de secundaria, cada uno con una personalidad diferente, pasan un sábado castigados en la biblioteca de su escuela. A medida que el día avanza, descubren que tienen más en común de lo que pensaban.",
       "img": "https://cdn.sincroguia.tv/uploads/programs/e/l/-/xel-club-de-los-cinco-poster-7239_SPA-25_V.jpg.pagespeed.ic.uU2qrZRHLz.webp",
