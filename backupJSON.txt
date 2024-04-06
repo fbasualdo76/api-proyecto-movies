@@ -1,0 +1,100 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "name": "Pulp Fiction",
+      "description": "La vida de un boxeador, dos sicarios, la esposa de un gánster y dos bandidos se entrelaza en una historia de violencia y redención",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/p/u/l/pulp-fiction-340_SPA-37.jpg",
+      "createdAt": "16 de febrero de 1995",
+      "isLiked": true
+    },
+    {
+      "id": "2",
+      "name": "Perfume de mujer",
+      "description": "Frank, un militar ciego, emprende un viaje a Nueva York con un joven recluta que le cuida durante Acción de Gracias. Frank está dispuesto a matar a un antiguo compañero de armas, y después, suicidarse.",
+      "img": "https://www.nosolocine.net/wp-content/uploads/2021/05/Perfume-Scent-of-a-Woman-1024x576.jpg",
+      "createdAt": "18 de febrero de 1993",
+      "isLiked": true
+    },
+    {
+      "id": "3",
+      "name": "Harry Potter",
+      "description": "El día de su cumpleaños, Harry Potter descubre que es hijo de dos conocidos hechiceros, de los que ha heredado poderes mágicos. Debe asistir a una famosa escuela de magia y hechicería...",
+      "img": "https://www.cronista.com/files/image/488/488121/636e67d2c55ba.jpg",
+      "createdAt": "29 de noviembre de 2001",
+      "isLiked": false
+    },
+    {
+      "id": "4",
+      "name": "Forrest Gump",
+      "description": "Forrest Gump es un chico con deficiencias mentales no muy profundas y con alguna incapacidad motora que, a pesar de todo, llegará a convertirse, entre otras cosas, en un héroe durante la Guerra del Vietnam.",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/f/o/r/forrest-gump-415_SPA-94.jpg",
+      "createdAt": "7 de julio de 1994",
+      "isLiked": true
+    },
+    {
+      "id": "5",
+      "name": "El Padrino",
+      "description": "En 1945, en Nueva York, los Corleone son una de las cinco familias que dominan la mafia. Don Vito Corleone, el Padino, es el más respetado por las demás familias y también el más temido.",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/e/l/-/xel-padrino-2981_SPA-85.jpg.pagespeed.ic.2xSpJ2k7TL.webp",
+      "createdAt": "24 de marzo de 1972",
+      "isLiked": true
+    },
+    {
+      "id": "6",
+      "name": "El Señor de los Anillos",
+      "description": "Un hobbit llamado Frodo Bolsón es el portador de un anillo que puede conceder el poder absoluto a su poseedor. Acompañado de varios amigos, emprende un viaje para destruirlo y evitar que caiga en manos de la oscuridad.",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/e/l/-/el-senor-de-los-anillos-64213_SPA-14.jpg",
+      "createdAt": "10 de diciembre de 2001",
+      "isLiked": false
+    },
+    {
+      "id": "7",
+      "name": "Titanic",
+      "description": "Una joven de la alta sociedad abandona a su arrogante pretendiente por un joven humilde en este clásico de James Cameron.",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/t/i/t/titanic-160_SPA-21.jpg",
+      "createdAt": "18 de noviembre de 1997",
+      "isLiked": true
+    },
+    {
+      "id": "8",
+      "name": "Matrix",
+      "description": "Un programador de computadoras descubre que el mundo en el que vive es una simulación creada por máquinas inteligentes. Con la ayuda de un grupo de rebeldes, lucha por liberar a la humanidad de su control.",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/m/a/t/xmatrix-1124_SPA-51.jpg.pagespeed.ic.DNtx4w5Uha.webp",
+      "createdAt": "31 de marzo de 1999",
+      "isLiked": true
+    },
+    {
+      "id": "9",
+      "name": "La lista de Schindler",
+      "description": "Durante la Segunda Guerra Mundial, Oskar Schindler, un empresario alemán, salva la vida de más de mil judíos polacos al emplearlos en sus fábricas.",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/l/a/-/la-lista-de-schindler-6842_SPA-22.jpg",
+      "createdAt": "1 de marzo de 1994",
+      "isLiked": true
+    },
+    {
+      "id": "10",
+      "name": "El caballero oscuro",
+      "description": "Batman se enfrenta al Joker, un criminal psicótico que siembra el caos en Gotham City.",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/e/l/-/el-caballero-oscuro-134613_SPA-45.jpg",
+      "createdAt": "24 de julio de 2008",
+      "isLiked": true
+    },
+    {
+      "id": "11",
+      "name": "El Gran Lebowski",
+      "description": "Jeffrey Lebowski, más conocido como El Nota, es un hombre tranquilo que disfruta de su amor por los bolos y la marihuana. Su vida se complica cuando es confundido con otro hombre del mismo nombre y se ve envuelto en una serie de eventos extraños.",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/e/l/-/el-gran-lebowski-7035_SPA-85.jpg",
+      "createdAt": "15 de marzo de 1998",
+      "isLiked": true
+    },
+    {
+      "id": "12",
+      "name": "El club de los cinco",
+      "description": "Cinco estudiantes de secundaria, cada uno con una personalidad diferente, pasan un sábado castigados en la biblioteca de su escuela. A medida que el día avanza, descubren que tienen más en común de lo que pensaban.",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/e/l/-/xel-club-de-los-cinco-poster-7239_SPA-25_V.jpg.pagespeed.ic.uU2qrZRHLz.webp",
+      "createdAt": "15 de febrero de 1985",
+      "isLiked": true
+    }
+  ]
+}
